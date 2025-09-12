@@ -42,9 +42,6 @@
 ---
 
 ## 📫 Connect with me
-- GitHub: [KudaiberdiZainiev](https://github.com/KudaiberdiZainiev)  
-- Email: *(add your email here)*  
-
+- Email: *kdajberdiz@gmail.com*  
+- Telegram: *@kuda1berd1*
 ---
-
-✨ Thanks for visiting my profile! ✨

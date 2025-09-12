@@ -2,7 +2,6 @@
 
 💻 I’m a student learning **Fullstack Development** and exploring **AI/ML**.  
 🚀 Currently working on my project **CraftyNet**.  
-📚 My goal is to grow from **A2 English** level to **B1–B2**, while also improving my programming skills.  
 
 ---
 

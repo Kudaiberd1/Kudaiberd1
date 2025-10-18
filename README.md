@@ -34,10 +34,7 @@
 
 ---
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/Kudaiberd1/Kudaiberd1/blob/output/github-contribution-grid-snake.svg)
 
-*(Generated with [Platane’s Snake](https://platane.github.io/snk/))*  
 
 ---
 

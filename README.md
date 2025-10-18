@@ -30,7 +30,6 @@
 ---
 
 ## 📌 Current Focus
-- Building **CraftyNet** 🚀  
 - Learning **AI/ML basics** 🤖  
 - Improving **frontend–backend integration** 🔗  
 

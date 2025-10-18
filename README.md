@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Kudaiberdi  
 
-💻 I’m a student learning **Fullstack Development** and exploring **AI/ML**.  
-🚀 Currently working on my project **CraftyNet**.  
+💻 I’m a student learning **Fullstack Development**.  
 
 ---
 

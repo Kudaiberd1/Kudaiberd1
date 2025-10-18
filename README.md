@@ -5,6 +5,9 @@
 
 ---
 
+![snake gif](https://github.com/Kudaiberd1/Kudaiberd1/blob/output/github-snake-dark.svg)
+
+---
 ## 🔧 Tech Stack
 
 ### 💻 Languages  

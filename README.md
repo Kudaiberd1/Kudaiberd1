@@ -30,6 +30,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
 ---
+### Statistics
+![Kudaiberd1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kudaiberd1&theme=vue-dark&hide_border=true)
+---
 
 ## 📈 GitHub Stats
 ![Kudaiberd1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kudaiberd1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)

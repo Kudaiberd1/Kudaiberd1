@@ -31,7 +31,7 @@
 
 ---
 ### Statistics
-![Kudaiberd1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kudaiberd1&theme=vue-dark&hide_border=true)
+![Kudaiberd1's Stats](https://github-readme-stats.vercel.app/api?username=Kudaiberd1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ---
 
 ## 📈 GitHub Stats

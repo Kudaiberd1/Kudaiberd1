@@ -31,7 +31,7 @@
 
 ---
 ### Statistics
-![Kudaiberd1's Stats](https://github-readme-stats.vercel.app/api?username=Kudaiberd1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Kudaiberd1)](https://git.io/streak-stats)
 ---
 
 ## 📈 GitHub Stats

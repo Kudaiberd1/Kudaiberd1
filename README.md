@@ -10,8 +10,7 @@
 ## 🔧 Tech Stack
 
 ### 💻 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat)  
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 

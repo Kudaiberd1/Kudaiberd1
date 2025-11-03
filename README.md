@@ -24,14 +24,6 @@
 ---
 ### Statistics
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Kudaiberd1)](https://git.io/streak-stats)
----
-
-## 📈 GitHub Stats
-![Kudaiberd1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kudaiberd1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
----
-
-
 
 ---
 

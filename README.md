@@ -27,18 +27,6 @@
 
 ---
 
-## 📌 Current Focus
-- Learning **AI/ML basics** 🤖  
-- Improving **frontend–backend integration** 🔗  
-
----
-
-## 🌱 Future Goals
-- Become a strong **Fullstack Developer**  
-- Work on real **AI/ML projects**  
-- Collaborate with friends on cool open-source projects  
-
----
 
 ## 📫 Connect with me
 - 📧 **Email:** [kdajberdiz@gmail.com](mailto:kdajberdiz@gmail.com)  

@@ -14,7 +14,7 @@
 
 ---
 ### Statistics
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Kudaiberd1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kudaiberd1)](https://git.io/streak-stats)
 
 ---
 

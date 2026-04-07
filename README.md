@@ -14,7 +14,7 @@
 
 ---
 ### Statistics
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kudaiberd1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kudaiberd1&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
